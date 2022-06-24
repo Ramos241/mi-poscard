@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(119, 165, 192);
+}
+h1{ 
+  position:absolute; top: 70px; left: 300px; color: rgb(26, 19, 113); font-size: 4rem;
+}
+.icono{  
+  position:absolute; top: 250px; left: 400px; color: black; font-size: 30rem;
+}
